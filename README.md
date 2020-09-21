@@ -1,3 +1,16 @@
+
+
+
+
+
+###### This is a fork to be used as a quick fix.
+###### The goal is to have a version of the 4.5.0 release with the UIWebView references removed. It is then used in the Pootsy Customer apps.
+###### The actual work is done in the 'release/4.5.0_no_uiwebview' branch
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36"> RxSwift: ReactiveX for Swift
 ======================================
 
